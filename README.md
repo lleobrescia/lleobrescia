@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Leo Brescia</h1>
 <h3 align="center">Agile Master @ UOL Compasso</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/lleobrescia](https://github.com/lleobrescia)
+👨‍💻 All of my projects are available at [https://github.com/lleobrescia](https://github.com/lleobrescia)
 
-- 💬 Ask me about **react, javascript, wordpress, agile, project management**
+💬 Ask me about **react, javascript, wordpress, agile, project management**
 
-- 📫 How to reach me **lleobrescia@gmail.com**
+📫 How to reach me **lleobrescia@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/leobrescia/](https://www.linkedin.com/in/leobrescia/)
+📄 Know about my experiences [https://www.linkedin.com/in/leobrescia/](https://www.linkedin.com/in/leobrescia/)
 
-- ⚡ Fun fact **I know Taekwondo**
+⚡ Fun fact **I know Taekwondo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
